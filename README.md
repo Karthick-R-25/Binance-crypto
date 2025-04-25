@@ -5,6 +5,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 A real-time cryptocurrency price tracker built using React and WebSocket integration with **Binance**. The dashboard updates token data live, displays price movements visually, and features an interactive UI designed for clarity and speed.
 
 ---
+## 🚀 Live Demo
+
+🌐 [View Live](https://karthick-r-25.github.io/Binance-crypto)
+
+---
+
 
 
 ## 📽 Demo Video
