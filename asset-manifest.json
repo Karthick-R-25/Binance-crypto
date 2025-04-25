@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Binance-crypto/static/css/main.b79117c8.css",
+    "main.js": "/Binance-crypto/static/js/main.a69cccd2.js",
+    "static/js/453.d8165492.chunk.js": "/Binance-crypto/static/js/453.d8165492.chunk.js",
+    "index.html": "/Binance-crypto/index.html",
+    "main.b79117c8.css.map": "/Binance-crypto/static/css/main.b79117c8.css.map",
+    "main.a69cccd2.js.map": "/Binance-crypto/static/js/main.a69cccd2.js.map",
+    "453.d8165492.chunk.js.map": "/Binance-crypto/static/js/453.d8165492.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79117c8.css",
+    "static/js/main.a69cccd2.js"
+  ]
+}
